@@ -93,7 +93,7 @@ public class Story {
 		endFight(warrior, child,8);
 		System.out.println("\n----------------------------------\nNow that your finished with the troll you return to your quest\nyou look back to your path and see Ashish Gauba walking toward you\nCrap\nYou've heard of this guy...he is unbearable all he does is talk and talk");
 		Ashish();//This method is used as a gag for the sake of belittling Ashish (I have his approval)
-		System.out.println("Gald you are done with that loser");
+		System.out.println("Glad you are done with that loser");
 		System.in.read();
 		System.out.println("\n----------------------------------\nYou continue down the wooded path that you beleive will lead you to Karls house\n Of course you have no way of knowing that for sure\nAs you walk you see a hut\nPerhaps it is Karls house\nyou knock on the door of the hut but just as you do you hear a loud craking noise behind you\nYou turn and spot an elderly man wearing a tall purple hat\n\nA Wizard\n\nWizards are just the worst");
 		System.in.read();
